@@ -1,4 +1,7 @@
+import "./PageHeader.css";
 
+<link rel="stylesheet"
+          href="https://fonts.google.com/specimen/Inter"></link>
 
 const Homepageheader = () =>{
 
@@ -6,7 +9,7 @@ const Homepageheader = () =>{
         <>
         <div className="newsHead">
             <div className="logo">
-                <h2>W.</h2>
+                <p>W.</p>
             </div>
             <div classname="newsHead-nav">
                 <button>Home</button>
