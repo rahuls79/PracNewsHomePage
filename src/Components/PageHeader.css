@@ -1,0 +1,26 @@
+.newsHead{
+    display : flex;
+    justify-content: space-between;
+}
+
+button{
+    background-color: #f8f8f800;
+    color: black;
+    border: 0ch;
+    padding: 9px;
+    margin: 19.92px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: rgb(130, 139, 78);
+}
+
+p{
+        /* font-size: 40px; */
+        font-family: Inter;
+        font-weight: 900;
+        /* margin: 0px; */
+        font-size: 25px;
+}
+
