@@ -1,11 +1,11 @@
 import "./HomePage.css";
-import Pageheader from "./PageHeader.js";
+import PageHeader from "./PageHeader.js";
 
 const HomePage = () =>{
 
     return (
         <div className="homepage-outer">
-            <Pageheader />
+            <PageHeader />
             {/*<Homepage-newsBody />
             <Homepage-newsList />*/}
         </div>
