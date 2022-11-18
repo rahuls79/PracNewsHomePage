@@ -1,15 +1,15 @@
-import "./Homepage.css";
-import Homepageheader from "./Homepageheader.js";
+import "./HomePage.css";
+import PageHeader from "./PageHeader.js";
 
-const Homepage = () =>{
+const HomePage = () =>{
 
     return (
         <div className="homepage-outer">
-            <Homepageheader />
+            <PageHeader />
             {/*<Homepage-newsBody />
             <Homepage-newsList />*/}
         </div>
     )
 }
 
-export default Homepage;
+export default HomePage;
