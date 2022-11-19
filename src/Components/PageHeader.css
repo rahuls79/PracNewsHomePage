@@ -16,11 +16,12 @@ button:hover{
     color: rgb(130, 139, 78);
 }
 
-p{
+.newsHead p{
         /* font-size: 40px; */
         font-family: Inter;
         font-weight: 900;
         /* margin: 0px; */
         font-size: 25px;
 }
+
 

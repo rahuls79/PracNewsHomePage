@@ -1,0 +1,96 @@
+.pageData{
+    
+    display: flex;
+
+}
+
+.NewsHeadline{
+
+    height: 120px;
+    width: 100%;
+
+}
+
+.NewNews{
+
+    background: rgb(4, 1, 15);
+    color: white;
+    height: 35%;
+    font-family: Inter;
+    height: 100%;
+    padding: 15px;
+}
+
+
+
+.NewsHeadline-data{
+    height: 60%;
+    display: flex;
+}
+
+.NewsHeadline-heading{
+    padding-right: 10px;
+    width: 50%;
+}
+
+.NewsHeadline-heading h1{
+    font-weight: 900;
+    width: 60%;
+}
+
+.NewsHeadline-desc{
+    width: 70%;
+    margin-left: 10px;
+    padding-left: 0;
+    margin-left: 0;
+    padding-right: 4px;
+    font-size: larger;
+}
+
+.NewsHeadline-data p {
+    font-size: smaller;
+    width: 75%;
+    font-family: inherit;
+    font-weight: 400;
+    color: rgb(65, 64, 63);
+}
+
+.NewsHeadline-desc button{
+    color:aliceblue;
+    font-weight: 300;
+    font-size: small;
+    font: initial;
+    width: initial;
+    margin: 0;
+    background-color: coral;
+}
+
+.NewsHeadline-desc button:hover{
+    background-color: black;
+}
+
+.NewNews h3{
+
+    font-size: larger;
+    font-family: system-ui;
+
+}
+
+.NewNews h3:hover{
+    color: rgb(223, 166, 8);
+    cursor: pointer;
+}
+
+.NewNews p{
+    font-size: smaller;
+    font-family: system-ui;
+    font-weight: 100;
+    opacity: 0.7;
+}
+
+h2{
+
+    font-family: sans-serif;
+    font-size: x-large;
+    color: rgb(232, 151, 52);
+}
