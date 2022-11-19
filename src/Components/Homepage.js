@@ -1,5 +1,5 @@
 import "./HomePage.css";
-import PageHeader from "./PageHeader.js";
+import PageHeader from "./PageHeader";
 import PageBody from "./PageBody";
 import PageNewsList from "./PageNewsList";
 

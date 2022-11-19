@@ -3,7 +3,7 @@ import "./PageHeader.css";
 <link rel="stylesheet"
           href="https://fonts.google.com/specimen/Inter"></link>
 
-const Homepageheader = () =>{
+const PageHeader = () =>{
 
     return(
         <>
@@ -24,4 +24,4 @@ const Homepageheader = () =>{
     )
 }
 
-export default Homepageheader;
+export default PageHeader;
