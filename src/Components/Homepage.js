@@ -1,6 +1,7 @@
 import "./HomePage.css";
 import PageHeader from "./PageHeader.js";
 import PageBody from "./PageBody";
+import PageNewsList from "./PageNewsList";
 
 const HomePage = () =>{
 
@@ -8,6 +9,9 @@ const HomePage = () =>{
         <div className="homepage-outer">
             <PageHeader />
             <PageBody />
+            <br></br>
+            <br></br>
+            <PageNewsList />
         </div>
     )
 }
